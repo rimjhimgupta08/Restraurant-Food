@@ -1,0 +1,953 @@
+@media screen and (max-width: 1650px) {
+      /* .card{
+            margin: 0px 20px;
+            width: 400px;
+            height: 500px;
+            margin-bottom: 30px;
+      
+      } */
+      .blog{
+            margin-top: 70px;
+            margin-left: 0px;
+            margin-right: 0px;
+            
+      }
+}
+@media screen and (max-width:1600px) {
+      .foot .paras{
+            position: relative;
+            font-size: 1.2rem;
+            font-weight: 500;
+      
+      }
+      
+}
+@media screen and (max-width: 1400px) {
+      .hero2{
+            margin-top: 90px;
+            padding: 0px;
+            margin-left: 0px;
+            margin-right: 0px;
+      }
+      .venue #input{
+            width: 200px;
+          }
+          .card{
+            /* margin: 0px 20px; */
+            width: 300px;
+            /* height: 500px; */
+            margin-bottom: 30px;
+            margin-left: 20px;
+      
+      } 
+      .read-more button{
+            margin: 0px;
+            background-color: rgb(219, 52, 80);
+            border: none;
+            border-radius: 10px;
+            padding: 10px 20px;
+            color: white;
+            font-size: .7rem;
+            width: 150px;
+            margin-right: 5px;
+      }
+      .read-more span{
+            font-size: .7rem;
+            font-weight: 500;
+      }
+      .brand .card{
+            background-color: white;
+            padding: 10px 20px;
+            margin-left: 20px;
+            width: 250px;
+            /* height: 200px; */
+             border-radius: 20px;
+      } 
+      .photo img{
+            width: 280px;
+            height: 300px;
+            padding: 10px 10px;
+      }
+      .photo .img1{
+            width: 550px;
+            height: 500px;
+      }
+      .photo .img2{
+            width: 550px;
+            height:500px;
+            padding: 10px 10px;
+            margin-top: -200px;
+            margin-left: 10px;
+      }
+}
+@media screen and (max-width: 1350px) {
+      /* .card{
+            margin: 0px 20px;
+            width: 350px;
+            height: 500px;
+            margin-bottom: 30px;
+      
+      } */
+}
+@media screen and (max-width: 1200px) {
+      .blog{
+            margin-top: 70px;
+            margin-left: 0px;
+            margin-right: 0px;
+            
+      }
+      .cart{
+            width: 100%;
+      }
+      .venue .img{
+            width: 300px;
+          }
+      /* .card{
+            margin: 0px 20px;
+            width: 500px;
+            height: 600px;
+            margin-bottom: 30px;
+      
+      } */
+      .blogs{
+            width: 400px;
+            margin-right: 0px;
+      }
+      .venue textarea{
+           
+            width: 400px;
+            
+            
+          }
+          .image-wrapper{
+            height: 25vh;
+          }
+          .image-wrapper img{
+            max-width: 100%;
+            max-height: 100%;
+            /* height: auto; */
+            height: 25vh;
+      
+          }
+          .card{
+            /* margin: 0px 20px; */
+            width: 400px;
+            /* height: 500px; */
+            margin-bottom: 30px;
+            margin-left: 20px;
+      
+      } 
+      .brand .card{
+            background-color: white;
+            padding: 10px 20px;
+            margin-left: 20px;
+            width: 240px;
+            /* height: 200px; */
+             border-radius: 20px;
+      } 
+      .photo img{
+            width: 250px;
+            height: 250px;
+            padding: 10px 25px;
+      }
+      .photo .img1{
+            width: 470px;
+            height: 500px;
+      }
+      .photo .img2{
+            width: 470px;
+            height:500px;
+            padding: 10px 10px;
+            margin-top: -250px;
+            margin-left: 10px;
+      }
+      .owl-carousel .card{
+            width: 300px;
+      }
+      .photo .top1{
+            position: relative;
+      }
+      .photo .top1 .con{
+            position: absolute;
+            bottom: 10px;
+            width: 90%;
+            margin-left: 40px;
+            color: rgb(220, 215, 215);
+            background-color: rgba(0, 0, 0, .3);
+            font-size: .9rem;
+      }
+      .photo .top1 .con h6{
+            font-size: .9rem;
+      }
+      
+}
+
+@media screen and (max-width: 1130px) {
+      .brand .card{
+            background-color: white;
+            padding: 10px 20px;
+            margin-left: 20px;
+            width: 230px;
+            /* height: 200px; */
+             border-radius: 20px;
+      } 
+}
+@media screen and (max-width: 1100px) {
+      .hero2 #img{
+            width: 400px;
+            height: 500px;
+      }
+      .form{
+            background-color: white;
+            padding-left: 10px;
+            padding: 0px;
+          }
+          .brand .card{
+            background-color: white;
+            padding: 10px 20px;
+            margin-left: 20px;
+            width:350px;
+            /* height: 200px; */
+             border-radius: 20px;
+      } 
+      .hero .hero-content{
+            margin-left: 0px;
+      }
+      .hero .hero-content h1{
+            font-size: 1.5rem;
+      }
+}
+@media screen and (max-width: 1000px) {
+      .venue #input{
+            width: 200px;
+          }
+          .venue{
+      margin: 0px 0px;
+      padding: 40px 0px;
+
+          }
+          .owl-carousel .card{
+            width: 400px;
+            
+      }
+}
+@media screen and (max-width:992px) {
+      .image-wrapper{
+            height: 20vh;
+          }
+          .image-wrapper img{
+            max-width: 100%;
+            max-height: 100%;
+            /* height: auto; */
+            height: 20vh;
+      
+          }
+          .card{
+            margin: 0 .5rem;
+            width: calc(100%/2);
+          }
+          .hero h1{
+            font-size: 1.2rem;
+      }
+      .hero .hero-content .para{
+            margin-top: 20px;
+            font-size: .7rem;
+      }
+      .hero .content .hero-content{
+            margin-left: 10px;
+      }
+      .hero .content .hero-content  p{
+            font-size: .7rem;
+      }
+      .hero .box-container{
+            
+            margin-top: 30px;
+      }
+      .hero .box-container .box{
+            background-color: whitesmoke;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            width: 150px;
+            margin-bottom: 20px;
+      }
+      .hero .image img{
+            /* width: 750px; */
+            width: 100%;
+            /* height: 500px; */
+            height: 450px;
+      }
+      .btn{
+            position: absolute;
+            right: 5%;
+            bottom: 10px;
+      }
+      .card{
+            /* margin: 0px 20px; */
+            width: 320px;
+            /* height: 500px; */
+            margin-bottom: 30px;
+            margin-left: 20px;
+      
+      } 
+      .member p{
+            font-size: .7rem;
+            width: 100%;
+      }
+      .photo img{
+            width: 200px;
+            height: 200px;
+            padding: 10px 25px;
+      }
+      .photo .img1{
+            width: 360px;
+            height: 300px;
+      }
+      .photo .img2{
+            width: 360px;
+            height:300px;
+            padding: 10px 10px;
+            margin-top: -100px;
+            margin-left: 10px;
+      }
+      .owl-carousel .card{
+            width: 300px;
+            
+      }
+      .navbar-collapse{
+            background-color: rgb(219, 52, 80);
+            cursor: white;
+            height: 400px;
+            z-index: 2;
+      }
+      .navbar-collapse .nav-item .nav-link{
+            color: white !important;
+            font-size: 1.3rem;
+      }
+      .navbar-collapse .contact .nav-link{
+            color: white !important;
+            font-size: 1.3rem;
+
+            
+      }
+      .navbar-collapse .contact{
+            display:block;
+            margin-right: 90px;
+      }
+      .galleys p{
+            width: 70%;
+      }
+      .gallery-wrap .prev {
+      
+            background-color: rgb(186, 186, 186);
+            padding: 10px;
+            font-size: 1.2rem;
+            position: absolute;
+            top: 10%;
+            right: 80px;
+      
+      }
+       .gallery-wrap .next {
+            
+            background-color: rgb(219, 52, 80);
+            padding: 10px;
+            font-size: 1.2rem;
+            color: white;
+            position: absolute;
+            top: 10%;
+            right: 40px;
+      
+      }
+      .photo .top1{
+            position: relative;
+      }
+      .photo .top1 .con{
+            position: absolute;
+            bottom: 10px;
+            width: 90%;
+            margin-left: 30px;
+            color: rgb(220, 215, 215);
+            background-color: rgba(0, 0, 0, .3);
+            font-size: .9rem;
+      }
+      .photo .top1 .con h6{
+            font-size: .7rem;
+            line-height: 8px;
+      }
+      .photo .top1 .con p{
+            font-size: .7rem;
+
+      }
+
+}
+@media screen and (max-width:950px) {
+      .hero2 #img{
+            width: 350px;
+            height: 400px;
+      }
+      .hero2 .para{
+            font-weight: 500;
+            font-size: .6rem;
+      }
+      .hero2 p{
+            font-size: .6rem;
+      }
+      .hero2 .btn1{
+            background-color:rgb(219, 52, 80) ;
+            border: none;
+            padding: 10px 10px;
+            color: white;
+            font-weight: 500;
+            font-size: .6rem;
+      }
+      .hero2 .btn2{
+            background-color:white;
+            border: none;
+            padding: 10px 10px;
+            color: black;
+            font-weight: 500;
+            font-size: .6rem;
+      }
+      .blog{
+            margin-top: 0px;
+      }
+      .venue .para{
+            width: 70%;
+      }
+      .venue #input{
+            width: 150px;
+          }
+          .venue input{
+            width: 150px;
+          }
+          .venue textarea{
+            /* margin-top: 20px; */
+            width: 300px;
+      }
+      .hero1 h5{
+            height: 130px;
+            
+            width: 250px;
+            
+      
+      }
+}
+@media screen and (max-width:850px) {
+     .brand .card{
+            /* margin: 0px 20px; */
+            width: 300px;
+            /* height: 500px; */
+            margin-bottom: 30px;
+            margin-left: 20px;
+      
+      } 
+}
+@media screen and (max-width: 768px) {
+      .hero2 #img{
+            width: 500px;
+            height: 400px;
+      }
+      .hero2 p{
+            font-size: .6rem;
+            width: 70%;
+      }
+      .hero2 .btns{
+            margin-top: 0px;
+      }
+      .hero2 .content{
+            margin-top: 30px;
+      }
+      .venue h3{
+            margin-top: 20px;
+      }
+      .venue #input{
+            width: 300px;
+          }
+          .venue input{
+            margin-right: 20px;
+            width: 200px;
+          }
+          .venue textarea{
+            width: 400px;
+          }
+          .form{
+            background-color: white;
+            padding: 40px;
+          }
+          .hero h1{
+            font-size: 1.5rem;
+      }
+      .hero .content{
+            text-align: center;
+      }
+      .hero1 h5{
+            height: 130px;
+            background-color: rgb(219, 52, 80);
+            width: 100%;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+      
+      }
+      .card{
+            /* margin: 0px 20px; */
+            width: 280px;
+            /* height: 500px; */
+            margin-bottom: 30px;
+            margin-left: 20px;
+      
+      } 
+      .read-more button{
+            margin: 0px;
+            background-color: rgb(219, 52, 80);
+            border: none;
+            border-radius: 10px;
+            padding: 10px 10px;
+            color: white;
+            font-size: .7rem;
+            width: 150px;
+            margin-right: 10px;
+      }
+      .photo img{
+            width: 150px;
+            height: 150px;
+            padding: 10px 25px;
+      }
+      .photo .img1{
+            width: 260px;
+            height: 280px;
+      }
+      .photo .img2{
+            width: 260px;
+            height:280px;
+            padding: 10px 10px;
+            margin-top: -130px;
+            margin-left: 10px;
+      }
+      .owl-carousel .card{
+            width: 240px;
+            
+      }
+      .owl-carousel .card img{
+            height: 200px;
+      }
+      .owl-carousel .nav-btn1{
+            background-color: gainsboro;
+            width: 40px;
+            height: 40px;
+            position: absolute;
+            right: 60px;
+            top: -150px;
+      }
+      .owl-carousel .nav-btn2{
+            background-color:rgba(241, 46, 78, 0.922);
+            width: 40px;
+            height: 40px;
+            position: absolute;
+            right: 20px;
+            top: -150px;
+      }
+      .photo .top1 .con{
+            position: absolute;
+            bottom: 10px;
+            width: 80%;
+            margin-left: 30px;
+            color: rgb(220, 215, 215);
+            background-color: rgba(0, 0, 0, .3);
+            font-size: .9rem;
+      }
+      .photo .top1 .con h6{
+            font-size: .5rem;
+            line-height: 8px;
+      }
+      .photo .top1 .con p{
+            font-size: .5rem !important;
+
+      }
+
+
+      
+          
+}
+@media screen and (max-width: 750px) {
+     .brand .card{
+            /* margin: 0px 20px; */
+            width: 270px;
+            /* height: 500px; */
+            margin-bottom: 30px;
+            margin-left: 10px;
+      
+      } 
+}
+@media screen and (max-width: 700px) {
+      .venue #input{
+            width: 200px;
+          }
+          .faq-question span, .para, .h2{
+            margin-left: 30px;
+      
+          }
+          .accordion-item{
+            width: 90%;
+            border: none;
+            margin-top: 10px;
+            margin-left: 30px;
+          }
+          .card{
+            /* margin: 0px 20px; */
+            width: 270px;
+            /* height: 500px; */
+            margin-bottom: 30px;
+            margin-left: 10px;
+      
+      } 
+      
+}
+@media screen and (max-width: 660px) {
+      .card{
+            /* margin: 0px 20px; */
+            width: 240px;
+            /* height: 500px; */
+            margin-bottom: 30px;
+            margin-left: 10px;
+      
+      } 
+      .brand .card{
+            /* margin: 0px 20px; */
+            width: 230px;
+            /* height: 500px; */
+            margin-bottom: 30px;
+            margin-left: 10px;
+      
+      } 
+}
+@media screen and (max-width: 650px) {
+      .card{
+            /* margin: 0px 20px; */
+            width: 250px;
+            /* height: 500px; */
+            margin-bottom: 30px;
+            margin-left: 10px;
+      
+      } 
+      .blog{
+            /* margin-top: 20px; */
+            
+            /* margin: 20px 40px; */
+            padding: 20px 0px;
+      
+            
+      }
+}
+@media screen and (max-width: 600px) {
+      .owl-carousel .card{
+            width: 400px;
+            margin-left: 30px;
+      }
+      .owl-carousel .card img{
+            height: 250px;
+      }
+      .navbar-collapse .nav-item .nav-link{
+            color: white !important;
+            font-size: 1rem;
+      }
+      .navbar-collapse .contact .nav-link{
+            color: white !important;
+            font-size: 1rem;
+
+            
+      }
+      .navbar-collapse .contact{
+            display:block;
+            margin-right: 20px;
+      }
+      .gallery-wrap .prev {
+      
+            background-color: rgb(186, 186, 186);
+            padding: 10px;
+            font-size: 1.2rem;
+            position: absolute;
+            top: 2%;
+            right: 80px;
+      
+      }
+       .gallery-wrap .next {
+            
+            background-color: rgb(219, 52, 80);
+            padding: 10px;
+            font-size: 1.2rem;
+            color: white;
+            position: absolute;
+            top: 2%;
+            right: 40px;
+      
+      }
+}
+@media screen and (min-width: 576px) {
+     .carousel-inner{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+     }
+     .carousel-item{
+      display: block;
+      margin-right: 0;
+      flex: 0 0 calc(100%/3);
+     }
+     
+     
+}
+@media screen and (max-width: 576px) {
+      .hero1 .images{
+            margin-top: 30px;
+            text-align: center;
+      }
+      .hero1 img{
+            width: 70px;
+      }
+      .card{
+            /* margin: 0px 20px; */
+            width: 380px;
+            /* height: 500px; */
+            margin-bottom: 30px;
+            margin-left: 10px;
+      
+      } 
+      .photo img{
+            width: 400px;
+            height: 400px;
+            padding: 10px 25px;
+      }
+      .photo .img1{
+            width: 400px;
+            height: 400px;
+      }
+      .photo .img2{
+            width: 400px;
+            height:400px;
+            padding: 10px 10px;
+            /* margin-top: -130px; */
+            /* margin-left: 10px; */
+            margin-top: 10px;
+      }
+      .photo .top1 .con{
+            position: absolute;
+            bottom: 10px;
+            width: 60%;
+            margin-left: 30px;
+            color: rgb(220, 215, 215);
+            background-color: rgba(0, 0, 0, .3);
+            font-size: .9rem;
+      }
+      .photo .top1 .con h6{
+            font-size: .5rem;
+            line-height: 8px;
+      }
+      .photo .top1 .con p{
+            font-size: .5rem !important;
+
+      }
+      .hero1{
+            margin-top: 10px;
+      }
+}
+
+@media screen and (max-width: 500px) {
+      .hero2 #img{
+            width: 400px;
+            height: 400px;
+      }
+      .hero2 p{
+            font-size: .6rem;
+            width: 100%;
+      }
+      .venue textarea{
+            width: 350px;
+          }
+          .faq-question span, .para, .h2{
+            margin-left: 10px;
+      
+          }
+          .accordion-item{
+            width: 100%;
+            border: none;
+            margin-top: 10px;
+            margin-left: 10px;
+          }
+          .accordion-collapse{
+            font-size: .7rem;
+          }
+          .collapsed{
+            font-size: .8rem;
+          }
+          .accordion-body strong{
+            font-size: .9rem;
+          }
+          .member-block{
+            background-color: rgb(55, 55, 55);
+            width: 60%;
+            padding: 20px;
+      
+      
+      }
+      .member h4{
+            font-size: .9rem;
+            font-weight: 500;
+      }
+      .member h3{
+            font-size: 1.5rem;
+            font-weight: 700;
+      }
+      .member p{
+            font-size: .7rem;
+            width: 80%;
+      }
+      .member .line .bl{
+            width: 30px;
+            height: 2px;
+      }
+      .member .line .bl1{
+            width: 30px;
+
+      }
+      .owl-carousel .card{
+            width: 350px;
+            margin-left: 30px;
+      }
+      .owl-carousel .card img{
+            height: 250px;
+      }
+      .owl-carousel .nav-btn1{
+            background-color: gainsboro;
+            width: 30px;
+            height: 30px;
+            position: absolute;
+            right: 80px;
+            top: -50px;
+      }
+      .owl-carousel .nav-btn2{
+            background-color:rgba(241, 46, 78, 0.922);
+            width: 30px;
+            height: 30px;
+            position: absolute;
+            right: 40px;
+            top: -50px;
+      }
+      .photo .top1 .con{
+            position: absolute;
+            bottom: 10px;
+            width: 80%;
+            margin-left: 30px;
+            color: rgb(220, 215, 215);
+            background-color: rgba(0, 0, 0, .3);
+            font-size: .9rem;
+      }
+      .photo .top1 .con h6{
+            font-size: .5rem;
+            line-height: 8px;
+      }
+      .photo .top1 .con p{
+            font-size: .5rem !important;
+
+      }
+      .photo .img2{
+            width: 380px;
+            height:300px;
+            padding: 10px 10px;
+            /* margin-top: -130px; */
+            /* margin-left: 10px; */
+            margin-top: 10px;
+      }
+      
+}
+@media screen and (max-width: 400px) {
+      .hero2 #img{
+            width: 320px;
+            height: 400px;
+      }
+      .venue textarea{
+            /* margin-top: 20px; */
+            width: 240px;
+            border: 1px solid rgb(223, 219, 219);
+            border-radius: 10px;
+            
+          }
+          .hero .btn1{
+            margin-bottom: 20px;
+          }
+          .navbar img{
+            width: 200px;
+          }
+          .card{
+            /* margin: 0px 20px; */
+            width: 330px;
+            /* height: 500px; */
+            margin-bottom: 30px;
+            margin-left: 10px;
+      
+      } 
+      .photo img{
+            width: 300px;
+            height: 300px;
+            padding: 10px 25px;
+      }
+      .photo .img1{
+            width: 300px;
+            height: 300px;
+      }
+      .photo .img2{
+            width: 300px;
+            height:300px;
+            padding: 10px 10px;
+            /* margin-top: -130px; */
+            /* margin-left: 10px; */
+            margin-top: 10px;
+      }
+      .owl-carousel .card{
+            width: 300px;
+            margin-left: 20px;
+      }
+      .owl-carousel .card img{
+            height: 250px;
+      }
+      .gallery-wrap .prev {
+      
+            background-color: rgb(186, 186, 186);
+            padding: 10px;
+            font-size: 1rem;
+            position: absolute;
+            top: 10px;
+            right: 70px;
+      
+      }
+       .gallery-wrap .next {
+            
+            background-color: rgb(219, 52, 80);
+            padding: 10px;
+            font-size: 1rem;
+            color: white;
+            position: absolute;
+            top: 10px;
+            right: 40px;
+      
+      }
+      .photo .top1 .con{
+            position: absolute;
+            bottom: 10px;
+            width: 70%;
+            margin-left: 30px;
+            color: rgb(220, 215, 215);
+            background-color: rgba(0, 0, 0, .3);
+            font-size: .9rem;
+      }
+      .photo .top1 .con h6{
+            font-size: .5rem;
+            line-height: 8px;
+      }
+      .photo .top1 .con p{
+            font-size: .5rem !important;
+
+      }
+}
