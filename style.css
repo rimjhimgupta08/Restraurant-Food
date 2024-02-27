@@ -785,7 +785,15 @@ body{
       position: absolute;
       right: 80px;
       top: -150px;
+      color: black;
+      font-size: 1.8rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
 }
+
+
+
 .owl-carousel .nav-btn2{
       background-color:rgba(241, 46, 78, 0.922);
       width: 50px;
@@ -793,6 +801,11 @@ body{
       position: absolute;
       right: 40px;
       top: -150px;
+      color: white;
+      font-size: 1.8rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
 }
 
 

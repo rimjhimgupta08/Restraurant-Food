@@ -6,7 +6,7 @@ $('.owl-carousel').owlCarousel({
     autoplay:true,
     autoplayTimeout: 2000,
 //     navText:["<div class='nav-btn prev-slide '></div>","<div class='nav-btn next-slide'></div>"],
-      navText: ["<img src='image/left-arrow.png' class= 'nav-btn1'>","<img src='image/rights.png' class='nav-btn2'>"],
+    //   navText: ["<img src='image/left-arrow.png' class= 'nav-btn1'>","<img src='image/rights.png' class='nav-btn2'>"],
 
 
 
@@ -29,6 +29,8 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
+$( ".owl-prev").html('<i class="fa-solid fa-arrow-left nav-btn1"></i>');
+ $( ".owl-next").html('<i class="fa-solid fa-arrow-right nav-btn2"></i>');
 
 // $('.owl-carousel').owlCarousel({
 //       nav: true,
