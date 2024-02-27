@@ -540,6 +540,7 @@
             position: absolute;
             right: 60px;
             top: -150px;
+            font-size: 1.4rem;
       }
       .owl-carousel .nav-btn2{
             background-color:rgba(241, 46, 78, 0.922);
@@ -548,6 +549,8 @@
             position: absolute;
             right: 20px;
             top: -150px;
+            font-size: 1.4rem;
+
       }
       .photo .top1 .con{
             position: absolute;
@@ -826,6 +829,7 @@
             position: absolute;
             right: 80px;
             top: -50px;
+            font-size: 1.2rem;
       }
       .owl-carousel .nav-btn2{
             background-color:rgba(241, 46, 78, 0.922);
@@ -834,6 +838,8 @@
             position: absolute;
             right: 40px;
             top: -50px;
+            font-size: 1.2rem;
+
       }
       .photo .top1 .con{
             position: absolute;
