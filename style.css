@@ -859,4 +859,7 @@ padding: 0px !important;
       height: 20px;
       text-align: center;
       margin-top: 5px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
 }
