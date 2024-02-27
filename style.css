@@ -286,6 +286,7 @@ body{
       /* height: 500px; */
       margin-bottom: 30px;
       margin-left: 20px;
+      transition: all 2s ease-in-out;
 
 } 
 
@@ -695,6 +696,10 @@ body{
       color: rgb(220, 215, 215);
       background-color: rgba(0, 0, 0, .3);
       font-size: .9rem;
+      /* filter: drop-shadow(0 0 4em #646cffaa); */
+      /* filter: drop-shadow(0 0 2em #646cffaa); */
+
+      
 }
 .photo .top1 .con h6{
       font-size: .9rem;

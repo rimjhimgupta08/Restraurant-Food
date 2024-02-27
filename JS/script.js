@@ -3,6 +3,8 @@ $('.owl-carousel').owlCarousel({
     margin:10,
     responsiveClass:true,
     nav:true,
+    autoplay:true,
+    autoplayTimeout: 2000,
 //     navText:["<div class='nav-btn prev-slide '></div>","<div class='nav-btn next-slide'></div>"],
       navText: ["<img src='image/left-arrow.png' class= 'nav-btn1'>","<img src='image/rights.png' class='nav-btn2'>"],
 
@@ -12,7 +14,7 @@ $('.owl-carousel').owlCarousel({
         0:{
             items:1,
             nav:true,
-            dots:false
+            dots:2
 
         },
         600:{
